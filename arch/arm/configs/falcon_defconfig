@@ -3,8 +3,6 @@
 # Linux/arm 3.4.42 Kernel Configuration
 #
 
-# Deathly Additions 
-#
 CONFIG_LOCALVERSION="-unicornblood-kernel-falcon-lp"
 CONFIG_SIMPLE_GPU_ALGORITHM=y
 CONFIG_INTELLI_PLUG=y
